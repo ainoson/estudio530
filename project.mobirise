@@ -75,10 +75,10 @@
     "favicon": false,
     "": "on",
     "noImageResize": true,
-    "robotsSwitcher": true,
-    "sitemapSwitcher": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://www.estudio530.com",
+    "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -91,7 +91,7 @@
       "textButton": "Acepto"
     },
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-153498267-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-153498267-1');\n</script>",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "terminos-y-condiciones.html": {
