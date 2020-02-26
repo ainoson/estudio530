@@ -29,7 +29,6 @@ body{font-family: Source Sans Pro;}blockquote{border-color: #bb77a8;}div[submit-
   <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
   
   
-
 </head>
 <body><div id="top-page"></div>                                         <amp-animation id="showScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0.4", "visibility": "visible" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <amp-animation id="hideScrollToTopAnim" layout="nodisplay">                                             <script type="application/json">                                             {                                                 "duration": "200ms",                                                 "fill": "both",                                                 "iterations": "1",                                                 "direction": "alternate",                                                 "animations": [                                                     {                                                         "selector": "#scrollToTopButton",                                                         "keyframes": [                                                             { "opacity": "0", "visibility": "hidden" }                                                         ]                                                     }                                                 ]                                             }                                             </script>                                         </amp-animation>                                         <div id="scrollToTopMarker">                                             <amp-position-observer on="enter:hideScrollToTopAnim.start; exit:showScrollToTopAnim.start" layout="nodisplay">                                             </amp-position-observer>                                         </div><amp-sidebar id="sidebar" class="cid-rQhP726exb" layout="nodisplay" side="right">
         <div class="builder-sidebar" id="builder-sidebar">
@@ -85,7 +84,35 @@ body{font-family: Source Sans Pro;}blockquote{border-color: #bb77a8;}div[submit-
 <!-- /Analytics -->
 
 
-  <section class="menu horizontal-menu cid-rQhP726exb" id="menu1-41">
+  <section class="header4 cid-rPHZFZ3nKY mbr-fullscreen" id="header4-1p">
+
+    
+    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(165, 73, 151);"></div>
+    <div class="container">
+        <div class="mbr-row mbr-justify-content-center">
+            <div class="mbr-col-lg-10 mbr-col-md-12">
+                <h1 class="mbr-fonts-style mbr-section-title display-2">
+                    <strong>A un click de</strong>&nbsp;hacerlo realidad</h1>
+                <p class="mbr-fonts-style mbr-text display-4">Nuestra idea es hacer de tu negocio un lugar atractivo, con un producto visible en todos los canales y un mensaje irresistible. &nbsp;</p>
+                <div class="mbr-section-btn"><a class="btn btn-lg mbr-editable-button btn-info display-7" href="mailto:hola@estudio530.com">EMPECEMOS</a> <a class="btn btn-lg mbr-editable-button btn-white display-7" href="index.html">VOLVER A INICIO</a></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="footer7 cid-rP4kwpGi70" id="footer7-1o">
+
+    
+    
+    <div class="container">
+        <div class="align-center">
+            <h4 class="mbr-text mbr-fonts-style display-5">
+                Copyright (c) 2020 Estudio 530</h4>
+        </div>
+    </div>
+</section>
+
+<section class="menu horizontal-menu cid-rQhP726exb" id="menu1-41">
 
     
     <nav class="navbar navbar-dropdown  navbar-fixed-top navbar-expand-lg">
@@ -155,38 +182,9 @@ body{font-family: Source Sans Pro;}blockquote{border-color: #bb77a8;}div[submit-
 
 </section>
 
-<section class="header4 cid-rPHZFZ3nKY mbr-fullscreen" id="header4-1p">
-
-    
-    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(165, 73, 151);"></div>
-    <div class="container">
-        <div class="mbr-row mbr-justify-content-center">
-            <div class="mbr-col-lg-10 mbr-col-md-12">
-                <h1 class="mbr-fonts-style mbr-section-title display-2">
-                    <strong>A un click de</strong>&nbsp;hacerlo realidad</h1>
-                <p class="mbr-fonts-style mbr-text display-4">Nuestra idea es hacer de tu negocio un lugar atractivo, con un producto visible en todos los canales y un mensaje irresistible. &nbsp;</p>
-                <div class="mbr-section-btn"><a class="btn btn-lg mbr-editable-button btn-info display-7" href="mailto:hola@estudio530.com">EMPECEMOS</a> <a class="btn btn-lg mbr-editable-button btn-white display-7" href="index.html">VOLVER A INICIO</a></div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="footer7 cid-rP4kwpGi70" id="footer7-1o">
-
-    
-    
-    <div class="container">
-        <div class="align-center">
-            <h4 class="mbr-text mbr-fonts-style display-5">
-                Copyright (c) 2020 Estudio 530</h4>
-        </div>
-    </div>
-</section>
-
 
   
   
  
-  
-<button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)">                                         <a class="scroll-to-top-arrow"></a>                                     </button></body>
+  <button id="scrollToTopButton" on="tap:top-page.scrollTo(duration=200)">                                         <a class="scroll-to-top-arrow"></a>                                     </button></body>
 </html>
