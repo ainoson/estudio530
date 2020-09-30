@@ -104,7 +104,9 @@
       "colorLink": "#9f558a",
       "underlineLink": false,
       "text": "Continuando estás de acuerdo con nuestro <a href='aviso-legal.html'>aviso legal</a> y <a href='politica-de-privacidad.html'>política de privacidad</a>."
-    }
+    },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "terminos-y-condiciones.html": {
