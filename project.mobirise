@@ -72,7 +72,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 242,
+    "uniqCompNum": 243,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "canonical-url": "https://www.estudio530.com",
@@ -26731,14 +26731,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<form action=\"https://formspree.io/hola@estudio530.com\" method=\"POST\">\n  <label>\n    Your Name:\n    <input type=\"text\" name=\"name\">\n  </label>\n  <label>\n    Your Email:\n    <input type=\"email\" name=\"_replyto\">\n  </label>\n  <label>\n    Message:\n    <textarea name=\"message\"></textarea>\n  </label>\n  <input type=\"submit\" value=\"Send\">\n</form>\n\n\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<form action=\"https://formspree.io/hola@estudio530.com\" method=\"POST\">\n  <label>\n    Your Name:\n    <input type=\"text\" name=\"name\">\n  </label>\n  <label>\n    Your Email:\n    <input type=\"email\" name=\"_replyto\">\n  </label>\n  <label>\n    Message:\n    <textarea name=\"message\"></textarea>\n  </label>\n  <input type=\"submit\" value=\"Send\">\n</form>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
             "Theme"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-6p",
+          "_anchor": "custom-html-6q",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         }
