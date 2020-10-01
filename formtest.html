@@ -170,24 +170,38 @@ body{font-family: Source Sans Pro;}blockquote{border-color: #bb77a8;}div[submit-
 <div id="custom-html-6p"><!-- Type valid HTML here -->
 
 <div>
-    <!-- Make sure you don't change the form action-->
-    <form method="post" action-xhr="https://formoid.net/api/amp-form/push">
-        <!-- Replace with accesKey sent to your email -->
-        <input type="hidden" name="accessKey" value="68702f0a-4068-4578-a8b3-6e1ad8daa3cd"> <!-- Required -->
-        Nombre
-        <input type="text" name="name"> <!-- Optional -->
-        Subjet
-        <input type="text" name="subject"> <!-- Optional -->
-        Email
-        <input type="text" name="email"> <!-- Optional -->
-        Phone
-        <input type="text" name="phone"> <!-- Optional -->
-        Mensaje
-        <textarea name="message"></textarea> <!-- Optional -->
-        <!-- If you want form to redirect to a specific url after submission -->
-        <input type="hidden" name="redirectTo" value="https://www.estudio530.com"> <!-- Optional -->
-        <input type="submit" value="Submit">
-    </form>
+<div class="container">
+  <div class="columns">
+    <div class="column is-half">
+      <form method="post" id="staticform" action-xhr="https://formoid.net/api/amp-form/push">
+        <!-- Replace with your StaticForms accessKey -->
+        <input type="hidden" name="accessKey" value="68702f0a-4068-4578-a8b3-6e1ad8daa3cd">
+        <input type="hidden" name="subject" value="Test from jsfiddle">
+        <!-- Replace with the url you want to redirect to -->
+        <input type="hidden" name="redirectTo" value="https://www.google.com">
+        <div class="field">
+          <label class="label">Name</label>
+          <div class="control">
+            <input class="input" type="text" name="name" placeholder="Enter Your Name" required="">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">Email</label>
+          <div class="control">
+            <input class="input" type="email" name="email" placeholder="Enter Your Email" required="">
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">Message</label>
+          <div class="control">
+            <textarea class="textarea" name="message" placeholder="Enter Your Message" required=""></textarea>
+          </div>
+        </div>
+        <button class="button is-primary" type="Submit">Submit</button>
+      </form>
+    </div>
+  </div>
+</div>
 </div></div>
 
 
