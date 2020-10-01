@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Estudio 530",
-    "currentPage": "formtest.html",
+    "currentPage": "page27.html",
     "theme": {
       "name": "startupamp",
       "title": "StartupAMP",
@@ -72,7 +72,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 242,
+    "uniqCompNum": 239,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "canonical-url": "https://www.estudio530.com",
@@ -104,13 +104,15 @@
       "colorLink": "#9f558a",
       "underlineLink": false,
       "text": "Continuando estás de acuerdo con nuestro <a href='aviso-legal.html'>aviso legal</a> y <a href='politica-de-privacidad.html'>política de privacidad</a>."
-    }
+    },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "terminos-y-condiciones.html": {
       "settings": {
         "title": "Términos y Condiciones",
-        "order": 31,
+        "order": 30,
         "meta_descr": "Términos y condiciones Estudio 530. Las cosas claras."
       },
       "components": [
@@ -980,7 +982,7 @@
     "page9.html": {
       "settings": {
         "title": "Contacto",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -1695,7 +1697,7 @@
     "page10.html": {
       "settings": {
         "title": "Nuestra idea",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -2346,7 +2348,7 @@
     "infografia.html": {
       "settings": {
         "title": "Infografía",
-        "order": 9,
+        "order": 8,
         "meta_descr": "Las infografías explican de forma muy visual un concepto complicado en pocas palabras.\nAyudan a la memorización de aquello que queremos comunicar y nos otorgan notoriedad."
       },
       "components": [
@@ -3062,7 +3064,7 @@
     "proyectos-decoracion.html": {
       "settings": {
         "title": "Proyectos de decoración",
-        "order": 12,
+        "order": 11,
         "meta_descr": "Un sitio agradable para trabajar, es aquel que está decorado de forma afin a nuestros gustos. Mira a tu alrededor, ¿te gusta ir a trabajar a tu oficina o empezamos a hablar sobre un proyecto de decoración?"
       },
       "components": [
@@ -3782,7 +3784,7 @@
     "murales.html": {
       "settings": {
         "title": "Murales",
-        "order": 13,
+        "order": 12,
         "meta_descr": "Frases motivacionales para tu equipo de trabajo, murales inspiradores y detalles que marcan la diferencia. Es hora de destacar esa pared que pasa desapercibida y que tiene un gran potencial."
       },
       "components": [
@@ -4502,7 +4504,7 @@
     "vinilo.html": {
       "settings": {
         "title": "Vinilo",
-        "order": 14,
+        "order": 13,
         "meta_descr": "Utilizar diseños limpios y sencillos para señalizar, destacar, rotular o decorar. \nMil aplicaciones y ubicaciones. "
       },
       "components": [
@@ -5222,7 +5224,7 @@
     "grafico.html": {
       "settings": {
         "title": "Gráficos",
-        "order": 10,
+        "order": 9,
         "meta_descr": "Una imagen vale más que mil palabras, eso es innegable, pero si además esa imagen es atractiva, ayudará a que nuestros clientes quieran saber más de nosotros. "
       },
       "components": [
@@ -5938,7 +5940,7 @@
     "diseno-web.html": {
       "settings": {
         "title": "Diseño web",
-        "order": 15,
+        "order": 14,
         "meta_descr": "Tu página web es el escaparate de tu negocio. Hay muchas formas de vender y de tener presencia, desde un blog personal, a una singel page, online-shop, multipage web, portfolio, etc."
       },
       "components": [
@@ -6606,7 +6608,7 @@
     "campana-reconocimiento.html": {
       "settings": {
         "title": "Campaña reconocimiento",
-        "order": 23,
+        "order": 22,
         "meta_descr": "El merchandising es una de las formas más económicas de llevar tu marca a lugares y personas diferentes, previamente escogido tu público objetivo.\n\nA todo el mundo le gustan los regalos, si aciertas en el qué y el cómo, ¡Tu marca será muy visible!"
       },
       "components": [
@@ -7322,7 +7324,7 @@
     "ediciones-limitadas.html": {
       "settings": {
         "title": "Ediciones limitadas",
-        "order": 24,
+        "order": 23,
         "meta_descr": "La ediciones limitadas favorecen mucho la relación comercial, llegando a crear un vínculo más estrecho, fidelizando nuestro bien más preciado que son nuestros clientes y proveedores. "
       },
       "components": [
@@ -8038,7 +8040,7 @@
     "pack-diseno.html": {
       "settings": {
         "title": "Pack diseño",
-        "order": 18,
+        "order": 17,
         "meta_descr": "Pack diseño desde tan solo 220€: Con logotipo, colores que rodean a tu marca y tipografía con la que te comunicarás al exterior e interior de tu compañía."
       },
       "components": [
@@ -8754,7 +8756,7 @@
     "presa.html": {
       "settings": {
         "title": "Prensa",
-        "order": 30,
+        "order": 29,
         "meta_descr": "Dossier de prensa para medios de comunicación"
       },
       "components": [
@@ -9527,7 +9529,7 @@
     "material-oficina-corporativo.html": {
       "settings": {
         "title": "Material oficina corporativo",
-        "order": 25,
+        "order": 24,
         "meta_descr": "Hacer merchandising para nuestros empleados es una de las mejores formas de hacer marketing interno y que rápidamente se convierte en externo, gracias a la satisfacción de nuestros trabajadores."
       },
       "components": [
@@ -10243,7 +10245,7 @@
     "tarjetas-etiquetas.html": {
       "settings": {
         "title": "Tarjetas y etiquetas",
-        "order": 21,
+        "order": 20,
         "meta_descr": ""
       },
       "components": [
@@ -10959,7 +10961,7 @@
     "Logotipo.html": {
       "settings": {
         "title": "Logotipo",
-        "order": 19,
+        "order": 18,
         "meta_descr": "Un buen logo debe reunir una serie de cualidades para que sea memorable y reconocible allá donde tu marca esté. \n\nDesde logotipos a símbolos, hay muchos que nos representan a nosotros los consumidores. Haz que tu logomarca tenga personalidad."
       },
       "components": [
@@ -11675,7 +11677,7 @@
     "colores-corporativos.html": {
       "settings": {
         "title": "Colores corporativos",
-        "order": 22,
+        "order": 21,
         "meta_descr": "Los colores son importantes para determinar la psicología de una marca. Así puedes parecer una marca más cercana, glamurosa, joven o seria según la paleta de colores que decidas escoger. "
       },
       "components": [
@@ -12391,7 +12393,7 @@
     "papeleria.html": {
       "settings": {
         "title": "Papelería",
-        "order": 26,
+        "order": 25,
         "meta_descr": "La papelería cada vez toma más importancia para la identidad corporativa total de la marca. Desde papelería de empresa con membretes de la marca, a papelería específica para un evento."
       },
       "components": [
@@ -13107,7 +13109,7 @@
     "vectorial.html": {
       "settings": {
         "title": "Vectorial",
-        "order": 27,
+        "order": 26,
         "meta_descr": "Utilizamos las ilustraciones vectoriales para una mejor adaptabilidad a los diferentes soportes. Pudiendo trabajar en diferentes resoluciones, ser más rápidos a la hora de los cambios de los clientes y modernizando el concepto del dibujo."
       },
       "components": [
@@ -13823,7 +13825,7 @@
     "editorial.html": {
       "settings": {
         "title": "Editorial",
-        "order": 28,
+        "order": 27,
         "meta_descr": "La imagen siempre ha sido un buen compañero para un texto, porque refuerza y apoya el escrito. En este sentido, podemos utilizar ilustraciones para ilustrar cuentos, acompañar artículos en medios, como presentación de portadas de libros, etc."
       },
       "components": [
@@ -14539,7 +14541,7 @@
     "audio.html": {
       "settings": {
         "title": "Audio",
-        "order": 29,
+        "order": 28,
         "meta_descr": "Nuestro equipo de locutores se adapta a cada estilo, dándole el ritmo, la caracterización o dramatismo que la pieza escrita requiera para ser interpretada en voz. "
       },
       "components": [
@@ -15255,7 +15257,7 @@
     "Consultoria-comunicacion.html": {
       "settings": {
         "title": "Consultoria de comunicación",
-        "order": 8,
+        "order": 7,
         "meta_descr": "Solo tienes que mandarnos un mensaje comentándonos tu situación, más un número de teléfono y nosotros nos pondremos en contacto contigo con una propuesta de idea."
       },
       "components": [
@@ -15971,7 +15973,7 @@
     "enaras.html": {
       "settings": {
         "title": "Enaras",
-        "order": 11,
+        "order": 10,
         "meta_descr": "La fácil movilidad de una enara, convierte estos soportes en el mejor aliado para ferias, eventos, presentaciones. Enaras como fondo de entrevistas, o para videos corporativos, etc."
       },
       "components": [
@@ -18828,7 +18830,7 @@
             }
           },
           "_name": "features10",
-          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Image\" name=\"showImage\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Sub Title\" name=\"showSubTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked=\"\">\n\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected=\"\">3</option>\n        </select>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#f1f4fa\" selected=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Background Gradient\" name=\"gradient\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"bgcolor2\" value=\"#fede9a\" condition=\"gradient == true &amp;&amp; bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay &amp;&amp; bg.type == 'image'\">\n        <input type=\"checkbox\" title=\"Overlay Gradient\" name=\"overlayGradient\" condition=\"overlay == true &amp;&amp; bg.type == 'image'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"ovcolor2\" value=\"#022e93\" condition=\"overlay == true &amp;&amp; overlayGradient == true &amp;&amp; bg.type == 'image'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay &amp;&amp; bg.type == 'image'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-12\" mbr-class=\"{\n                              'mbr-col-lg-6': cardsAmount == 2,                                                \n                             'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4,                                             \n                             'mbr-col-lg-2': cardsAmount > 4,\n                             'last-child': cardsAmount == 1}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-logo-aracilcamacho-700x466.jpg\" layout=\"responsive\" width=\"349.9534334763948\" height=\"232.969\" alt=\"Estudio530-identidad-corporativa-logo-aracilcamacho\" title=\"Estudio530-identidad-corporativa-logo-aracilcamacho\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-logo-aracilcamacho-700x466.jpg\" alt=\"Estudio530-identidad-corporativa-logo-aracilcamacho\" title=\"Estudio530-identidad-corporativa-logo-aracilcamacho\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Logo <span style=\"font-weight: normal;\">tipos</span><span style=\"font-weight: normal;\"><br></span></h4>\n                        <h3 class=\"card-sub-title mbr-fonts-style mbr-black\" mbr-theme-style=\"display-6\" mbr-if=\"showSubTitle\" data-app-selector=\".card-sub-title\">Desde 180 €</h3>\n                        <p class=\"mbr-text mbr-fonts-style mbr-black\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Piensa en la imagen que viene a la cabeza cuando en una marca. La tuya debe ser memorable.<br></p>\n                        <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-7\"><a class=\"btn btn-sm btn-warning\" href=\"Logotipo.html\" data-app-placeholder=\"Type Text\">\n                                MÁS</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-12\" mbr-class=\"{\n                             'mbr-col-lg-6': cardsAmount == 2,                                       \n                             'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4,\n                             'mbr-col-lg-2': cardsAmount > 4,\n                             'last-child': cardsAmount == 2\n                             }\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-tarjeta-700x466.jpg\" layout=\"responsive\" height=\"232.969\" width=\"349.9534334763948\" alt=\"Estudio530-identidad-corporativa-tarjeta\" title=\"Estudio530-identidad-corporativa-tarjeta\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-tarjeta-700x466.jpg\" alt=\"Estudio530-identidad-corporativa-tarjeta\" title=\"Estudio530-identidad-corporativa-tarjeta\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Tarjetas <span style=\"font-weight: normal;\">Etiquetas</span></h4>\n                        <h3 class=\"card-sub-title mbr-fonts-style mbr-black\" mbr-theme-style=\"display-6\" mbr-if=\"showSubTitle\" data-app-selector=\".card-sub-title\">Desde 50 €</h3>\n                        <p class=\"mbr-text mbr-fonts-style mbr-black\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Que no queden para estabilizar una mesa coja. Tarjetas y etiquetas que llaman la atención de todos. </p>\n                        <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-7\"><a class=\"btn btn-sm btn-warning\" href=\"tarjetas-etiquetas.html\" data-app-placeholder=\"Type Text\">MÁS</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-12\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4, 'mbr-col-lg-2': cardsAmount > 4,\n                             'last-child': cardsAmount == 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-colores-700x466.jpg\" layout=\"responsive\" height=\"232.969\" width=\"349.9534334763948\" alt=\"Estudio530-identidad-corporativa-colores\" title=\"Estudio530-identidad-corporativa-colores\">\n                            <div placeholder=\"\" class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-colores-700x466.jpg\" alt=\"Estudio530-identidad-corporativa-colores\" title=\"Estudio530-identidad-corporativa-colores\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Colores <span style=\"font-weight: normal;\">Corpotativos</span></h4>\n                        <h3 class=\"card-sub-title mbr-fonts-style mbr-black\" mbr-theme-style=\"display-6\" mbr-if=\"showSubTitle\" data-app-selector=\".card-sub-title\">Desde 40 €</h3>\n                        <p class=\"mbr-text mbr-fonts-style mbr-black\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">La psicología del color aplicada a las tendencias y a tu modelo de negocio para dar coherencia en el mensaje visual.&nbsp;<br></p>\n                        <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-7\"><a class=\"btn btn-sm btn-warning\" href=\"colores-corporativos.html\" data-app-placeholder=\"Type Text\">MÁS</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Show Image\" name=\"showImage\" checked>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Sub Title\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n        </select>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#f1f4fa\" selected>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Background Gradient\" name=\"gradient\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"bgcolor2\" value=\"#fede9a\" condition=\"gradient == true && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type == 'image'\">\n        <input type=\"checkbox\" title=\"Overlay Gradient\" name=\"overlayGradient\" condition=\"overlay == true && bg.type == 'image'\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"ovcolor2\" value=\"#022e93\" condition=\"overlay == true && overlayGradient == true && bg.type == 'image'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type == 'image'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-12\" mbr-class=\"{\n                              'mbr-col-lg-6': cardsAmount == 2,                                                \n                             'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4,                                             \n                             'mbr-col-lg-2': cardsAmount > 4,\n                             'last-child': cardsAmount == 1}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-logo-aracilcamacho-700x466.jpg\" layout=\"responsive\" width=\"349.9534334763948\" height=\"232.969\" alt=\"Estudio530-identidad-corporativa-logo-aracilcamacho\" title=\"Estudio530-identidad-corporativa-logo-aracilcamacho\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-logo-aracilcamacho-700x466.jpg\" alt=\"Estudio530-identidad-corporativa-logo-aracilcamacho\" title=\"Estudio530-identidad-corporativa-logo-aracilcamacho\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Logo <span style=\"font-weight: normal;\">tipos</span><span style=\"font-weight: normal;\"><br></span></h4>\n                        <h3 class=\"card-sub-title mbr-fonts-style mbr-black\" mbr-theme-style=\"display-6\" mbr-if=\"showSubTitle\" data-app-selector=\".card-sub-title\">Desde 180 €</h3>\n                        <p class=\"mbr-text mbr-fonts-style mbr-black\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Piensa en la imagen que viene a la cabeza cuando en una marca. La tuya debe ser memorable.<br></p>\n                        <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-7\"><a class=\"btn btn-sm btn-warning\" href=\"Logotipo.html\" data-app-placeholder=\"Type Text\">\n                                MÁS</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-12\" mbr-class=\"{\n                             'mbr-col-lg-6': cardsAmount == 2,                                       \n                             'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4,\n                             'mbr-col-lg-2': cardsAmount > 4,\n                             'last-child': cardsAmount == 2\n                             }\" mbr-if=\"cardsAmount > 1\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-tarjeta-700x466.jpg\" layout=\"responsive\" height=\"232.969\" width=\"349.9534334763948\" alt=\"Estudio530-identidad-corporativa-tarjeta\" title=\"Estudio530-identidad-corporativa-tarjeta\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-tarjeta-700x466.jpg\" alt=\"Estudio530-identidad-corporativa-tarjeta\" title=\"Estudio530-identidad-corporativa-tarjeta\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Tarjetas <span style=\"font-weight: normal;\">Etiquetas</span></h4>\n                        <h3 class=\"card-sub-title mbr-fonts-style mbr-black\" mbr-theme-style=\"display-6\" mbr-if=\"showSubTitle\" data-app-selector=\".card-sub-title\">Desde 50 €</h3>\n                        <p class=\"mbr-text mbr-fonts-style mbr-black\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Que no queden para estabilizar una mesa coja. Tarjetas y etiquetas que llaman la atención de todos. </p>\n                        <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-7\"><a class=\"btn btn-sm btn-warning\" href=\"tarjetas-etiquetas.html\" data-app-placeholder=\"Type Text\">MÁS</a></div>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card mbr-col-sm-12 mbr-col-md-12\" mbr-class=\"{'mbr-col-lg-4': cardsAmount == 3,\n                             'mbr-col-lg-3': cardsAmount == 4, 'mbr-col-lg-2': cardsAmount > 4,\n                             'last-child': cardsAmount == 3}\" mbr-if=\"cardsAmount > 2\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-colores-700x466.jpg\" layout=\"responsive\" height=\"232.969\" width=\"349.9534334763948\" alt=\"Estudio530-identidad-corporativa-colores\" title=\"Estudio530-identidad-corporativa-colores\">\n                            <div placeholder class=\"placeholder\"></div>\n                            <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/estudio530-identidad-corporativa-colores-700x466.jpg\" alt=\"Estudio530-identidad-corporativa-colores\" title=\"Estudio530-identidad-corporativa-colores\">\n                        </amp-img>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Colores <span style=\"font-weight: normal;\">Corpotativos</span></h4>\n                        <h3 class=\"card-sub-title mbr-fonts-style mbr-black\" mbr-theme-style=\"display-6\" mbr-if=\"showSubTitle\" data-app-selector=\".card-sub-title\">Desde 40 €</h3>\n                        <p class=\"mbr-text mbr-fonts-style mbr-black\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">La psicología del color aplicada a las tendencias y a tu modelo de negocio para dar coherencia en el mensaje visual.&nbsp;<br></p>\n                        <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-7\"><a class=\"btn btn-sm btn-warning\" href=\"colores-corporativos.html\" data-app-placeholder=\"Type Text\">MÁS</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "features10-12",
           "_isUserblock": true,
           "_sourceTheme": "startupamp",
@@ -20701,7 +20703,7 @@
     "blog.html": {
       "settings": {
         "title": "Blog",
-        "order": 5,
+        "order": 4,
         "meta_descr": "Encuentra aquí artículos de interés relacionados con el mundo de la comunicación, el diseño y el marketing dentro del mundo rural."
       },
       "components": [
@@ -21623,7 +21625,7 @@
     "SEO.html": {
       "settings": {
         "title": "SEO",
-        "order": 16,
+        "order": 15,
         "meta_descr": "La mayoría de los sitios requieren de mimo para que se mantengan atractivos para los buscadores, en especial para nuestro amigo Google. En definitiva, tu web deberá estar optimizada"
       },
       "components": [
@@ -22339,7 +22341,7 @@
     "Contenido.html": {
       "settings": {
         "title": "Contenido",
-        "order": 17,
+        "order": 16,
         "meta_descr": "Cualquier estrategía de Marketing hoy día se basa en crear contenido de calidad que contenga las palabras clave de nuestro producto o servicio y links o menciones relativas a nuestra web."
       },
       "components": [
@@ -23055,7 +23057,7 @@
     "page27.html": {
       "settings": {
         "title": "Logo formulario",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -24149,7 +24151,7 @@
     "politica-de-cookies.html": {
       "settings": {
         "title": "Política de cookies",
-        "order": 2,
+        "order": 1,
         "meta_descr": "Política de cookies de Estudio 530"
       },
       "components": [
@@ -24805,7 +24807,7 @@
     "aviso-legal.html": {
       "settings": {
         "title": "Aviso legal",
-        "order": 3,
+        "order": 2,
         "meta_descr": "Aviso legal de Estudio 530"
       },
       "components": [
@@ -25461,7 +25463,7 @@
     "politica-de-privacidad.html": {
       "settings": {
         "title": "Política de privacidad",
-        "order": 4,
+        "order": 3,
         "meta_descr": "Política de privacidad de Estudio 530"
       },
       "components": [
@@ -26124,623 +26126,6 @@
           "_global": true,
           "_once": "footer",
           "_params": {}
-        }
-      ]
-    },
-    "formtest.html": {
-      "settings": {
-        "title": "formtest",
-        "order": 1,
-        "meta_descr": ""
-      },
-      "components": [
-        {
-          "alias": false,
-          "_styles": {
-            ".nav-item:focus, .nav-link:focus": {
-              "outline": "none"
-            },
-            ".navbar-nav": {
-              "list-style-type": "none",
-              "display": "flex",
-              "-webkit-flex-direction": "row",
-              "flex-direction": "row",
-              "padding-left": "0",
-              ".nav-link": {
-                "margin": "0.667em 1em",
-                "font-weight": "normal"
-              }
-            },
-            ".container": {
-              "display": "flex"
-            },
-            "@media (max-width: 991px)": {
-              "ul.navbar-nav": {
-                "-webkit-flex-direction": "column !important",
-                "flex-direction": "column !important",
-                "li": {
-                  "margin": "auto"
-                }
-              },
-              ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
-                "content": "\"\"",
-                "margin-left": "0.25rem",
-                "border-top": "0.35em solid",
-                "border-right": "0.35em solid transparent",
-                "border-left": "0.35em solid transparent",
-                "border-bottom": "0",
-                "top": "55%"
-              },
-              ".nav-dropdown .dropdown-menu .dropdown-item": {
-                "-webkit-justify-content": "center",
-                "justify-content": "center",
-                "display": "flex !important",
-                "-webkit-align-items": "center",
-                "align-items": "center"
-              }
-            },
-            "& when (@collapsed)": {
-              "ul.navbar-nav": {
-                "-webkit-flex-direction": "column !important",
-                "flex-direction": "column !important",
-                "li": {
-                  "margin": "auto"
-                }
-              },
-              ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]:after": {
-                "content": "\"\"",
-                "margin-left": "0.25rem",
-                "border-top": "0.35em solid",
-                "border-right": "0.35em solid transparent",
-                "border-left": "0.35em solid transparent",
-                "border-bottom": "0",
-                "top": "55%"
-              },
-              ".nav-dropdown .dropdown-menu .dropdown-item": {
-                "-webkit-justify-content": "center",
-                "justify-content": "center",
-                "display": "flex !important",
-                "-webkit-align-items": "center",
-                "align-items": "center"
-              }
-            },
-            ".nav-dropdown .dropdown-menu": {
-              "border-radius": "0",
-              "border": "0",
-              "left": "0",
-              "margin": "0",
-              "min-width": "10rem",
-              "padding-bottom": "1.25rem",
-              "padding-top": "1.25rem",
-              "position": "absolute",
-              ".dropdown-item": {
-                "font-weight": "400",
-                "line-height": "2",
-                "display": "flex",
-                "background": "@menuBgColor",
-                "-webkit-align-items": "center",
-                "align-items": "center",
-                "width": "100%",
-                "padding": "0.25rem 1.5rem",
-                "clear": "both",
-                "margin": "0.5rem",
-                "text-align": "inherit",
-                "white-space": "nowrap",
-                "border": "0"
-              },
-              ".dropdown": {
-                "position": "relative"
-              }
-            },
-            ".nav-item.dropdown": {
-              "position": "relative",
-              ".dropdown-menu": {
-                "z-index": "-1",
-                "opacity": "0",
-                "pointer-events": "none"
-              },
-              "&:hover": {
-                "& > .dropdown-menu": {
-                  "z-index": "1",
-                  "opacity": "1",
-                  "pointer-events": "all"
-                }
-              }
-            },
-            ".dropdown-menu .dropdown:hover": {
-              "& > .dropdown-menu": {
-                "z-index": "1",
-                "opacity": "1",
-                "pointer-events": "all"
-              }
-            },
-            ".link.dropdown-toggle:after": {
-              "content": "\"\"",
-              "margin-left": "0.25rem",
-              "border-top": "0.35em solid",
-              "border-right": "0.35em solid transparent",
-              "border-left": "0.35em solid transparent",
-              "border-bottom": "0"
-            },
-            ".nav-dropdown .dropdown-submenu": {
-              "top": "0"
-            },
-            ".navbar": {
-              "z-index": "100",
-              "display": "flex",
-              "-webkit-flex-direction": "row",
-              "flex-direction": "row",
-              "width": "100%",
-              "min-height": "77px",
-              "transition": "all 0.3s",
-              "background": "@menuBgColor",
-              ".navbar-logo": {
-                "margin-right": "0.8rem",
-                "img": {
-                  "height": "100%"
-                }
-              },
-              "&.navbar-short": {
-                "background": "@menuBgColor !important",
-                ".navbar-brand": {
-                  "padding": "0"
-                }
-              },
-              "&.opened": {
-                "transition": "all 0.3s",
-                "background": "@menuBgColor !important"
-              },
-              ".dropdown-item": {
-                "padding": "0.25rem 1.5rem"
-              },
-              ".navbar-collapse": {
-                "display": "flex",
-                "-webkit-justify-content": "flex-end",
-                "justify-content": "flex-end",
-                "z-index": "1",
-                "-webkit-flex-basis": "100%",
-                "flex-basis": "100%",
-                "-webkit-align-items": "center",
-                "align-items": "center",
-                "& when not (@showItems)": {
-                  "display": "none !important"
-                }
-              },
-              "&.collapsed": {
-                "button.navbar-toggler": {
-                  "display": "block !important"
-                },
-                ".navbar-collapse": {
-                  "display": "none",
-                  "position": "absolute",
-                  "top": "0",
-                  "right": "0",
-                  "min-height": "100vh",
-                  "background": "@menuBgColor",
-                  "padding": "1.5rem 2rem 1rem 2rem",
-                  "& when (@sidebarSide = \"left\")": {
-                    "right": "auto",
-                    "left": "0"
-                  }
-                },
-                "&.opened": {
-                  ".navbar-collapse": {
-                    "&.show, &.collapsing": {
-                      "display": "block"
-                    }
-                  },
-                  ".dropdown-menu": {
-                    "top": "0"
-                  }
-                },
-                ".dropdown-menu": {
-                  "position": "relative",
-                  "background": "transparent !important",
-                  ".dropdown-submenu": {
-                    "left": "0 !important"
-                  },
-                  ".dropdown-item:after": {
-                    "right": "auto"
-                  }
-                },
-                ".dropdown-menu .dropdown-item": {
-                  "padding": "0.25rem 1.5rem",
-                  "text-align": "center",
-                  "margin": "0"
-                },
-                ".navbar-brand": {
-                  "-webkit-flex-shrink": "initial",
-                  "flex-shrink": "initial",
-                  "word-break": "break-word"
-                }
-              },
-              "@media (max-width: 991px)": {
-                ".navbar-collapse": {
-                  "display": "none",
-                  "position": "absolute",
-                  "top": "0",
-                  "right": "0",
-                  "min-height": "100vh",
-                  "background": "@menuBgColor",
-                  "padding": "1rem 2rem 1rem 2rem",
-                  "& when (@sidebarSide = \"left\")": {
-                    "right": "auto",
-                    "left": "0"
-                  }
-                },
-                "&.opened": {
-                  ".navbar-collapse": {
-                    "&.show, &.collapsing": {
-                      "display": "block"
-                    }
-                  },
-                  ".dropdown-menu": {
-                    "top": "0"
-                  }
-                },
-                ".dropdown-menu": {
-                  "position": "relative",
-                  "background": "transparent !important",
-                  ".dropdown-submenu": {
-                    "left": "0 !important"
-                  },
-                  ".dropdown-item:after": {
-                    "right": "auto"
-                  }
-                },
-                ".dropdown-menu .dropdown-item": {
-                  "padding": "0.25rem 1.5rem",
-                  "text-align": "center",
-                  "margin": "0"
-                },
-                ".navbar-brand": {
-                  "-webkit-flex-shrink": "initial",
-                  "flex-shrink": "initial",
-                  "word-break": "break-word"
-                }
-              }
-            },
-            ".navbar-brand": {
-              "display": "flex",
-              "-webkit-flex-shrink": "0",
-              "flex-shrink": "0",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              "margin-right": "0",
-              "padding": "0",
-              "transition": "all 0.3s",
-              "word-break": "break-word",
-              "z-index": "1",
-              ".navbar-caption": {
-                "line-height": "inherit !important",
-                "font-weight": "normal",
-                "letter-spacing": "1px",
-                "display": "flex"
-              },
-              ".navbar-logo a": {
-                "outline": "none"
-              }
-            },
-            ".dropdown-item.active, .dropdown-item:active": {
-              "background-color": "transparent"
-            },
-            ".navbar-expand-lg .navbar-nav .nav-link": {
-              "padding": "0"
-            },
-            ".navbar.navbar-expand-lg .dropdown": {
-              ".dropdown-menu": {
-                "background-color": "transparent"
-              },
-              ".dropdown-submenu": {
-                "margin": "0",
-                "left": "100%"
-              }
-            },
-            ".navbar .dropdown.open > .dropdown-menu": {
-              "display": "block"
-            },
-            "ul.navbar-nav": {
-              "-webkit-flex-wrap": "wrap",
-              "flex-wrap": "wrap"
-            },
-            ".navbar-buttons": {
-              "text-align": "center"
-            },
-            "button.navbar-toggler": {
-              "display": "none",
-              "outline": "none",
-              "width": "31px",
-              "height": "20px",
-              "cursor": "pointer",
-              "transition": "all 0.2s",
-              "position": "relative",
-              "-webkit-align-self": "center",
-              "align-self": "center",
-              ".hamburger span": {
-                "position": "absolute",
-                "right": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "top": "0",
-                  "transition": "all 0.2s"
-                },
-                "&:nth-child(2)": {
-                  "top": "8px",
-                  "transition": "all 0.15s"
-                },
-                "&:nth-child(3)": {
-                  "top": "8px",
-                  "transition": "all 0.15s"
-                },
-                "&:nth-child(4)": {
-                  "top": "16px",
-                  "transition": "all 0.2s"
-                }
-              }
-            },
-            "nav.opened .navbar-toggler:not(.hide) .hamburger span": {
-              "&:nth-child(1)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all 0.2s"
-              },
-              "&:nth-child(2)": {
-                "-webkit-transform": "rotate(45deg)",
-                "transform": "rotate(45deg)",
-                "transition": "all 0.25s"
-              },
-              "&:nth-child(3)": {
-                "-webkit-transform": "rotate(-45deg)",
-                "transform": "rotate(-45deg)",
-                "transition": "all 0.25s"
-              },
-              "&:nth-child(4)": {
-                "top": "8px",
-                "width": "0",
-                "opacity": "0",
-                "right": "50%",
-                "transition": "all 0.2s"
-              }
-            },
-            ".navbar-dropdown": {
-              "padding": "0.5rem 1rem",
-              "& when (@sticky)": {
-                "position": "fixed"
-              }
-            },
-            "a.nav-link": {
-              "display": "flex",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              "-webkit-justify-content": "center",
-              "justify-content": "center",
-              "letter-spacing": "2px"
-            },
-            ".nav-link, .dropdown-item": {
-              ".mbr-iconfont": {
-                "margin-right": "0.2rem"
-              }
-            },
-            ".ampstart-btn": {
-              "display": "flex",
-              "-webkit-align-self": "center",
-              "align-self": "center",
-              "&.hamburger": {
-                "position": "relative",
-                "right": "20px",
-                "margin-left": "auto",
-                "width": "30px",
-                "height": "20px",
-                "background": "none",
-                "border": "none",
-                "cursor": "pointer",
-                "z-index": "1000",
-                "&:focus": {
-                  "outline": "none"
-                },
-                "span": {
-                  "position": "absolute",
-                  "right": "0",
-                  "width": "30px",
-                  "height": "2px",
-                  "border-right": "5px",
-                  "background-color": "@hamburgerColor",
-                  "&:nth-child(1)": {
-                    "top": "0",
-                    "transition": "all 0.2s"
-                  },
-                  "&:nth-child(2)": {
-                    "top": "8px",
-                    "transition": "all 0.15s"
-                  },
-                  "&:nth-child(3)": {
-                    "top": "8px",
-                    "transition": "all 0.15s"
-                  },
-                  "&:nth-child(4)": {
-                    "top": "16px",
-                    "transition": "all 0.2s"
-                  }
-                }
-              }
-            },
-            "@media (min-width: 992px)": {
-              "& when not (@collapsed)": {
-                ".ampstart-btn, amp-sidebar": {
-                  "display": "none"
-                },
-                ".dropdown-menu .dropdown-toggle:after": {
-                  "content": "\"\"",
-                  "border-bottom": "0.35em solid transparent",
-                  "border-left": "0.35em solid",
-                  "border-right": "0",
-                  "border-top": "0.35em solid transparent",
-                  "margin-left": "0.3rem",
-                  "margin-top": "-0.3077em",
-                  "position": "absolute",
-                  "right": "1.1538em",
-                  "top": "50%"
-                }
-              }
-            },
-            "amp-sidebar": {
-              "min-width": "260px !important",
-              "z-index": "1050 !important",
-              "background-color": "@menuBgColor"
-            },
-            "amp-sidebar.open:after": {
-              "content": "\"\"",
-              "position": "absolute",
-              "top": "0",
-              "left": "0",
-              "bottom": "0",
-              "right": "0",
-              "background-color": "red"
-            },
-            ".open": {
-              "-webkit-transform": "translateX(0%) !important",
-              "transform": "translateX(0%) !important",
-              "display": "block !important"
-            },
-            ".builder-sidebar": {
-              "background-color": "@menuBgColor",
-              "position": "relative",
-              "min-height": "100vh",
-              "z-index": "1030",
-              "padding": "1rem 2rem",
-              "max-width": "20rem",
-              ".dropdown": {
-                "position": "relative",
-                "&:hover": {
-                  "& > .dropdown-menu": {
-                    "position": "relative",
-                    "text-align": "center"
-                  }
-                }
-              }
-            },
-            ".sidebar": {
-              "padding": "1rem 0",
-              "margin": "0"
-            },
-            ".sidebar > li": {
-              "list-style": "none",
-              "display": "flex",
-              "-webkit-flex-direction": "column",
-              "flex-direction": "column"
-            },
-            ".sidebar a": {
-              "display": "block",
-              "text-decoration": "none",
-              "margin-bottom": "10px"
-            },
-            ".close-sidebar": {
-              "width": "30px",
-              "height": "30px",
-              "position": "relative",
-              "cursor": "pointer",
-              "background-color": "transparent",
-              "border": "none",
-              "&:focus": {
-                "outline": "2px auto @primaryColor"
-              },
-              "span": {
-                "position": "absolute",
-                "left": "0",
-                "width": "30px",
-                "height": "2px",
-                "border-right": "5px",
-                "background-color": "@hamburgerColor",
-                "&:nth-child(1)": {
-                  "-webkit-transform": "rotate(45deg)",
-                  "transform": "rotate(45deg)"
-                },
-                "&:nth-child(2)": {
-                  "-webkit-transform": "rotate(-45deg)",
-                  "transform": "rotate(-45deg)"
-                }
-              }
-            },
-            "amp-img": {
-              "display": "flex",
-              "-webkit-align-items": "center",
-              "align-items": "center",
-              "width": "~\"@{logoWidth}px\"",
-              "height": "auto",
-              "@media (max-width: 768px)": {
-                "max-width": "55px"
-              }
-            }
-          },
-          "_name": "menu1",
-          "_customHTML": "<section class=\"menu horizontal-menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe, amp-main,amp-sidebar\" always-top=\"\" global=\"\" once=\"menu\" position-absolute=\"\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked=\"\">\n        <input type=\"range\" title=\"Logo Width\" inline=\"\" name=\"logoWidth\" min=\"50\" max=\"120\" value=\"51\" step=\"1\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked=\"\">\n        <select title=\"Sidebar Side\" name=\"sidebarSide\">\n            <option value=\"left\">Left</option>\n            <option value=\"right\" selected=\"\">Right</option>\n        </select>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#585858\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#313131\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n    <nav class=\"navbar navbar-dropdown \" mbr-class=\"{'navbar-fixed-top':sticky,\n                     'navbar-expand-lg':!collapsed,\n                     'collapsed':collapsed}\">\n        <div class=\"container\">\n            <div class=\"navbar-brand\" mbr-if=\"showLogo || showBrand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <amp-img class=\"mobirise-loader\" src=\"@PROJECT_PATH@/assets/images/logo-estudio530-white-4-102x109.png\" layout=\"responsive\" width=\"51\" height=\"54.5\" alt=\"Estudio 530 logo\" title=\"Estudio 530 logo\">\n                        <div placeholder=\"\" class=\"placeholder\"></div>\n                        <a href=\"index.html\"><img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/logo-estudio530-white-4-102x109.png\" alt=\"Estudio 530 logo\" title=\"Estudio 530 logo\"></a>\n                    </amp-img>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons=\"\" mbr-theme-style=\"display-5\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Text\">\n                        <strong>ESTUDIO 530</strong>\n                    </a></span>\n            </div>\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n                <button class=\"navbar-toggler mb-2\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n                    <div class=\"hamburger\">\n                        <span></span>\n                        <span></span>\n                        <span></span>\n                        <span></span>\n                    </div>\n                </button>\n                <ul mbr-menu=\"\" class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-7\" mbr-if=\"showItems\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish &amp;&amp; !showBrand &amp;&amp; !showLogo}\"><li class=\"nav-item dropdown\">\n                        <a class=\"nav-link link dropdown-toggle text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\">\n                            <strong>DISEÑO</strong>\n                        </a>\n                        <div class=\"dropdown-menu\">\n                            <a class=\"dropdown-item text-white\" href=\"index.html#features7-5\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">GRÁFICOS</a>\n                            <a class=\"dropdown-item text-white\" href=\"index.html#features15-6\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">DECORACIÓN</a>\n                            <a class=\"text-white dropdown-item\" href=\"index.html#features7-r\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\">IDENTIDAD CORPORATIVA</a><a class=\"text-white dropdown-item\" href=\"index.html#features13-x\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\">PRESENTACIONES</a><a class=\"text-white dropdown-item\" href=\"index.html#features15-16\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\">MERCHANDISING</a><a class=\"text-white dropdown-item\" href=\"index.html#features6-13\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\">ILUSTRACIONES</a>\n                        </div>\n                    </li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"index.html#header4-61\" data-app-selector=\".nav-link,.dropdown-item\" aria-expanded=\"false\" data-app-placeholder=\"Type Text\">\n                            <strong>WEB+SEO</strong>\n                        </a></li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link link text-white\" href=\"index.html#features3-c\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                            \n                        </a>\n\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link link text-white\" href=\"index.html#header4-3t\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                            <strong>AUDIO</strong>\n                        </a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link link text-white\" href=\"index.html#header2-56\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                            <strong>QUIÉNES</strong>\n                        </a>\n                    </li></ul>\n\n                <div mbr-if=\"showButtons\" mbr-buttons=\"\" mbr-theme-style=\"display-7\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"mailto:info@estudio530.com\" data-app-placeholder=\"Type Text\">HOLA</a></div>\n            </div>\n            <button class=\"navbar-toggler hide\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarNavAltMarkup\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" mbr-if=\"showItems||showButtons\">\n                <div class=\"hamburger\">\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                    <span></span>\n                </div>\n            </button>\n            <button on=\"tap:sidebar.toggle\" class=\"ampstart-btn hamburger\" mbr-class=\"{'sticky-but':sticky}\" mbr-if=\"showItems||showButtons\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </button>\n\n        </div>\n    </nav>\n\n    <!-- AMP plug -->\n    <amp-sidebar id=\"sidebar\" layout=\"nodisplay\" side=\"{{sidebarSide}}\">\n        <div class=\"builder-sidebar\" id=\"builder-sidebar\">\n            <button on=\"tap:sidebar.close\" class=\"close-sidebar\">\n                <span></span>\n                <span></span>\n            </button>\n        </div>\n    </amp-sidebar>\n\n</section>",
-          "_cid": "rQhP726exb",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-6n"
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 1rem)",
-              "padding-bottom": "(@paddingBottom * 1rem)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value",
-              "& when (@gradient)": {
-                "background": "linear-gradient(135deg, @bg-value 0%, @bgcolor2 100%)"
-              }
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)",
-              "& when not (@overlayGradient)": {
-                ".mbr-overlay": {
-                  "background-color": "@overlayColor",
-                  "opacity": "@overlayOpacity"
-                }
-              },
-              "& when (@overlayGradient)": {
-                ".mbr-overlay": {
-                  "background": "linear-gradient(135deg, @overlayColor 0%, @ovcolor2 100%)",
-                  "opacity": "@overlayOpacity"
-                }
-              }
-            },
-            ".mbr-text": {
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_name": "footer7",
-          "_customHTML": "<section class=\"footer7\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#313131\" selected>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Background Gradient\" name=\"gradient\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"bgcolor2\" value=\"#585858\" condition=\"gradient == true && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type == 'image'\">\n        <input type=\"checkbox\" title=\"Overlay Gradient\" name=\"overlayGradient\" condition=\"overlay == true && bg.type == 'image'\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"ovcolor2\" value=\"#022e93\" condition=\"overlay == true && overlayGradient == true && bg.type == 'image'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type == 'image'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <div class=\"container\">\n        <div class=\"align-center\">\n            <h4 class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                Copyright (c) 2020 Estudio 530&nbsp;<br><a href=\"aviso-legal.html\" class=\"text-primary\">Aviso legal</a> · <a href=\"politica-de-cookies.html\" class=\"text-primary\">Política de cookies</a> · <a href=\"politica-de-privacidad.html\" class=\"text-primary\">Política de Privacidad</a></h4>\n        </div>\n    </div>\n</section>",
-          "_cid": "rP4kwpGi70",
-          "_protectedParams": [],
-          "_global": true,
-          "_once": "footer",
-          "_params": {},
-          "_anchor": "footer7-6o"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <!-- Make sure you don't change the form action-->\n    <form action=\"https://api.staticforms.xyz/submit\" method=\"post\">\n        <!-- Replace with accesKey sent to your email -->\n        <input type=\"hidden\" name=\"accessKey\" value=\"68702f0a-4068-4578-a8b3-6e1ad8daa3cd\"> <!-- Required -->\n        Nombre\n        <input type=\"text\" name=\"name\"> <!-- Optional -->\n        Subjet\n        <input type=\"text\" name=\"subject\"> <!-- Optional -->\n        Email\n        <input type=\"text\" name=\"email\"> <!-- Optional -->\n        Phone\n        <input type=\"text\" name=\"phone\"> <!-- Optional -->\n        Mensaje\n        <textarea name=\"message\"></textarea> <!-- Optional -->\n        <!-- If you want form to redirect to a specific url after submission -->\n        <input type=\"hidden\" name=\"redirectTo\" value=\"https://www.estudio530.com\"> <!-- Optional -->\n        <input type=\"submit\" value=\"Submit\">\n    </form>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-6p",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         }
       ]
     }
