@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Estudio 530",
-    "currentPage": "formtest.html",
+    "currentPage": "test.html",
     "theme": {
       "name": "startupamp",
       "title": "StartupAMP",
@@ -72,7 +72,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 243,
+    "uniqCompNum": 248,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "canonical-url": "https://www.estudio530.com",
@@ -110,7 +110,7 @@
     "terminos-y-condiciones.html": {
       "settings": {
         "title": "Términos y Condiciones",
-        "order": 31,
+        "order": 32,
         "meta_descr": "Términos y condiciones Estudio 530. Las cosas claras."
       },
       "components": [
@@ -980,7 +980,7 @@
     "page9.html": {
       "settings": {
         "title": "Contacto",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1695,7 +1695,7 @@
     "page10.html": {
       "settings": {
         "title": "Nuestra idea",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2346,7 +2346,7 @@
     "infografia.html": {
       "settings": {
         "title": "Infografía",
-        "order": 9,
+        "order": 10,
         "meta_descr": "Las infografías explican de forma muy visual un concepto complicado en pocas palabras.\nAyudan a la memorización de aquello que queremos comunicar y nos otorgan notoriedad."
       },
       "components": [
@@ -3062,7 +3062,7 @@
     "proyectos-decoracion.html": {
       "settings": {
         "title": "Proyectos de decoración",
-        "order": 12,
+        "order": 13,
         "meta_descr": "Un sitio agradable para trabajar, es aquel que está decorado de forma afin a nuestros gustos. Mira a tu alrededor, ¿te gusta ir a trabajar a tu oficina o empezamos a hablar sobre un proyecto de decoración?"
       },
       "components": [
@@ -3782,7 +3782,7 @@
     "murales.html": {
       "settings": {
         "title": "Murales",
-        "order": 13,
+        "order": 14,
         "meta_descr": "Frases motivacionales para tu equipo de trabajo, murales inspiradores y detalles que marcan la diferencia. Es hora de destacar esa pared que pasa desapercibida y que tiene un gran potencial."
       },
       "components": [
@@ -4502,7 +4502,7 @@
     "vinilo.html": {
       "settings": {
         "title": "Vinilo",
-        "order": 14,
+        "order": 15,
         "meta_descr": "Utilizar diseños limpios y sencillos para señalizar, destacar, rotular o decorar. \nMil aplicaciones y ubicaciones. "
       },
       "components": [
@@ -5222,7 +5222,7 @@
     "grafico.html": {
       "settings": {
         "title": "Gráficos",
-        "order": 10,
+        "order": 11,
         "meta_descr": "Una imagen vale más que mil palabras, eso es innegable, pero si además esa imagen es atractiva, ayudará a que nuestros clientes quieran saber más de nosotros. "
       },
       "components": [
@@ -5938,7 +5938,7 @@
     "diseno-web.html": {
       "settings": {
         "title": "Diseño web",
-        "order": 15,
+        "order": 16,
         "meta_descr": "Tu página web es el escaparate de tu negocio. Hay muchas formas de vender y de tener presencia, desde un blog personal, a una singel page, online-shop, multipage web, portfolio, etc."
       },
       "components": [
@@ -6606,7 +6606,7 @@
     "campana-reconocimiento.html": {
       "settings": {
         "title": "Campaña reconocimiento",
-        "order": 23,
+        "order": 24,
         "meta_descr": "El merchandising es una de las formas más económicas de llevar tu marca a lugares y personas diferentes, previamente escogido tu público objetivo.\n\nA todo el mundo le gustan los regalos, si aciertas en el qué y el cómo, ¡Tu marca será muy visible!"
       },
       "components": [
@@ -7322,7 +7322,7 @@
     "ediciones-limitadas.html": {
       "settings": {
         "title": "Ediciones limitadas",
-        "order": 24,
+        "order": 25,
         "meta_descr": "La ediciones limitadas favorecen mucho la relación comercial, llegando a crear un vínculo más estrecho, fidelizando nuestro bien más preciado que son nuestros clientes y proveedores. "
       },
       "components": [
@@ -8038,7 +8038,7 @@
     "pack-diseno.html": {
       "settings": {
         "title": "Pack diseño",
-        "order": 18,
+        "order": 19,
         "meta_descr": "Pack diseño desde tan solo 220€: Con logotipo, colores que rodean a tu marca y tipografía con la que te comunicarás al exterior e interior de tu compañía."
       },
       "components": [
@@ -8754,7 +8754,7 @@
     "presa.html": {
       "settings": {
         "title": "Prensa",
-        "order": 30,
+        "order": 31,
         "meta_descr": "Dossier de prensa para medios de comunicación"
       },
       "components": [
@@ -9527,7 +9527,7 @@
     "material-oficina-corporativo.html": {
       "settings": {
         "title": "Material oficina corporativo",
-        "order": 25,
+        "order": 26,
         "meta_descr": "Hacer merchandising para nuestros empleados es una de las mejores formas de hacer marketing interno y que rápidamente se convierte en externo, gracias a la satisfacción de nuestros trabajadores."
       },
       "components": [
@@ -10243,7 +10243,7 @@
     "tarjetas-etiquetas.html": {
       "settings": {
         "title": "Tarjetas y etiquetas",
-        "order": 21,
+        "order": 22,
         "meta_descr": ""
       },
       "components": [
@@ -10959,7 +10959,7 @@
     "Logotipo.html": {
       "settings": {
         "title": "Logotipo",
-        "order": 19,
+        "order": 20,
         "meta_descr": "Un buen logo debe reunir una serie de cualidades para que sea memorable y reconocible allá donde tu marca esté. \n\nDesde logotipos a símbolos, hay muchos que nos representan a nosotros los consumidores. Haz que tu logomarca tenga personalidad."
       },
       "components": [
@@ -11675,7 +11675,7 @@
     "colores-corporativos.html": {
       "settings": {
         "title": "Colores corporativos",
-        "order": 22,
+        "order": 23,
         "meta_descr": "Los colores son importantes para determinar la psicología de una marca. Así puedes parecer una marca más cercana, glamurosa, joven o seria según la paleta de colores que decidas escoger. "
       },
       "components": [
@@ -12391,7 +12391,7 @@
     "papeleria.html": {
       "settings": {
         "title": "Papelería",
-        "order": 26,
+        "order": 27,
         "meta_descr": "La papelería cada vez toma más importancia para la identidad corporativa total de la marca. Desde papelería de empresa con membretes de la marca, a papelería específica para un evento."
       },
       "components": [
@@ -13107,7 +13107,7 @@
     "vectorial.html": {
       "settings": {
         "title": "Vectorial",
-        "order": 27,
+        "order": 28,
         "meta_descr": "Utilizamos las ilustraciones vectoriales para una mejor adaptabilidad a los diferentes soportes. Pudiendo trabajar en diferentes resoluciones, ser más rápidos a la hora de los cambios de los clientes y modernizando el concepto del dibujo."
       },
       "components": [
@@ -13823,7 +13823,7 @@
     "editorial.html": {
       "settings": {
         "title": "Editorial",
-        "order": 28,
+        "order": 29,
         "meta_descr": "La imagen siempre ha sido un buen compañero para un texto, porque refuerza y apoya el escrito. En este sentido, podemos utilizar ilustraciones para ilustrar cuentos, acompañar artículos en medios, como presentación de portadas de libros, etc."
       },
       "components": [
@@ -14539,7 +14539,7 @@
     "audio.html": {
       "settings": {
         "title": "Audio",
-        "order": 29,
+        "order": 30,
         "meta_descr": "Nuestro equipo de locutores se adapta a cada estilo, dándole el ritmo, la caracterización o dramatismo que la pieza escrita requiera para ser interpretada en voz. "
       },
       "components": [
@@ -15255,7 +15255,7 @@
     "Consultoria-comunicacion.html": {
       "settings": {
         "title": "Consultoria de comunicación",
-        "order": 8,
+        "order": 9,
         "meta_descr": "Solo tienes que mandarnos un mensaje comentándonos tu situación, más un número de teléfono y nosotros nos pondremos en contacto contigo con una propuesta de idea."
       },
       "components": [
@@ -15971,7 +15971,7 @@
     "enaras.html": {
       "settings": {
         "title": "Enaras",
-        "order": 11,
+        "order": 12,
         "meta_descr": "La fácil movilidad de una enara, convierte estos soportes en el mejor aliado para ferias, eventos, presentaciones. Enaras como fondo de entrevistas, o para videos corporativos, etc."
       },
       "components": [
@@ -20701,7 +20701,7 @@
     "blog.html": {
       "settings": {
         "title": "Blog",
-        "order": 5,
+        "order": 6,
         "meta_descr": "Encuentra aquí artículos de interés relacionados con el mundo de la comunicación, el diseño y el marketing dentro del mundo rural."
       },
       "components": [
@@ -21623,7 +21623,7 @@
     "SEO.html": {
       "settings": {
         "title": "SEO",
-        "order": 16,
+        "order": 17,
         "meta_descr": "La mayoría de los sitios requieren de mimo para que se mantengan atractivos para los buscadores, en especial para nuestro amigo Google. En definitiva, tu web deberá estar optimizada"
       },
       "components": [
@@ -22339,7 +22339,7 @@
     "Contenido.html": {
       "settings": {
         "title": "Contenido",
-        "order": 17,
+        "order": 18,
         "meta_descr": "Cualquier estrategía de Marketing hoy día se basa en crear contenido de calidad que contenga las palabras clave de nuestro producto o servicio y links o menciones relativas a nuestra web."
       },
       "components": [
@@ -23055,7 +23055,7 @@
     "page27.html": {
       "settings": {
         "title": "Logo formulario",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -24149,7 +24149,7 @@
     "politica-de-cookies.html": {
       "settings": {
         "title": "Política de cookies",
-        "order": 2,
+        "order": 3,
         "meta_descr": "Política de cookies de Estudio 530"
       },
       "components": [
@@ -24805,7 +24805,7 @@
     "aviso-legal.html": {
       "settings": {
         "title": "Aviso legal",
-        "order": 3,
+        "order": 4,
         "meta_descr": "Aviso legal de Estudio 530"
       },
       "components": [
@@ -25461,7 +25461,7 @@
     "politica-de-privacidad.html": {
       "settings": {
         "title": "Política de privacidad",
-        "order": 4,
+        "order": 5,
         "meta_descr": "Política de privacidad de Estudio 530"
       },
       "components": [
@@ -26127,9 +26127,9 @@
         }
       ]
     },
-    "formtest.html": {
+    "test.html": {
       "settings": {
-        "title": "formtest",
+        "title": "Test",
         "order": 1,
         "meta_descr": ""
       },
@@ -26684,7 +26684,7 @@
           "_global": true,
           "_once": "menu",
           "_params": {},
-          "_anchor": "menu1-6n"
+          "_anchor": "menu1-6r"
         },
         {
           "alias": false,
@@ -26726,21 +26726,108 @@
           "_global": true,
           "_once": "footer",
           "_params": {},
-          "_anchor": "footer7-6o"
+          "_anchor": "footer7-6s"
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<form action=\"https://formspree.io/hola@estudio530.com\" method=\"POST\">\n  <label>\n    Your Name:\n    <input type=\"text\" name=\"name\">\n  </label>\n  <label>\n    Your Email:\n    <input type=\"email\" name=\"_replyto\">\n  </label>\n  <label>\n    Message:\n    <textarea name=\"message\"></textarea>\n  </label>\n  <input type=\"submit\" value=\"Send\">\n</form>\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-6q",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "alias": "formbuilder",
+          "_isSecondary": true,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            ".mbr-overlay": {
+              "background-color": "@overlayColor",
+              "opacity": "@overlayOpacity"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@customStyle)": {
+              ".form-control, .field-input": {
+                "padding": "0.5rem",
+                "background-color": "@fieldColor",
+                "border-color": "@borderColor",
+                "color": "@formText",
+                "transition": "0.4s",
+                "box-shadow": "none",
+                "outline": "none",
+                "&::-webkit-input-placeholder, &::-webkit-input-placeholder": {
+                  "color": "@formPlaceholder"
+                },
+                "&:-moz-placeholder, &:-moz-placeholder": {
+                  "color": "@formPlaceholder"
+                },
+                "&:hover, &:focus": {
+                  "background-color": "@fieldHover",
+                  "border-color": "@borderHover",
+                  "color": "@formFocusText",
+                  "box-shadow": "none",
+                  "outline": "none",
+                  "&::-webkit-input-placeholder, &::-webkit-input-placeholder": {
+                    "color": "@formFocusPlaceholder"
+                  },
+                  "&:-moz-placeholder, &:-moz-placeholder": {
+                    "color": "@formFocusPlaceholder"
+                  }
+                }
+              },
+              ".jq-number__spin:hover, .jq-number__spin:focus": {
+                "background-color": "@fieldHover",
+                "border-color": "@borderHover",
+                "color": "contrast(@formText, #000000, #ffffff, 30%)",
+                "box-shadow": "none",
+                "outline": "none"
+              },
+              ".jq-number__spin": {
+                "background-color": "@fieldColor",
+                "border-color": "@borderColor",
+                "color": "@formText",
+                "transition": "0.4s",
+                "box-shadow": "none",
+                "outline": "none"
+              },
+              ".jq-selectbox li, .jq-selectbox li": {
+                "background-color": "@fieldColor",
+                "color": "contrast(@fieldColor, #000000, #ffffff, 30%)"
+              },
+              ".jq-selectbox li:hover, .jq-selectbox li.selected": {
+                "background-color": "@fieldHover",
+                "color": "contrast(@fieldHover, #000000, #ffffff, 30%)"
+              },
+              ".jq-selectbox:hover .jq-selectbox__trigger-arrow, .jq-number__spin.minus:hover:after, .jq-number__spin.plus:hover:after": {
+                "border-top-color": "@fieldColor",
+                "border-bottom-color": "@fieldColor"
+              },
+              ".jq-selectbox .jq-selectbox__trigger-arrow, .jq-number__spin.minus:after, .jq-number__spin.plus:after": {
+                "border-top-color": "@fieldHover",
+                "border-bottom-color": "@fieldHover"
+              }
+            },
+            "& when (@customStyle), (@disableElements)": {
+              "input::-webkit-clear-button": {
+                "display": "none"
+              },
+              "input::-webkit-inner-spin-button": {
+                "display": "none"
+              },
+              "input::-webkit-outer-spin-button": {
+                "display": "none"
+              },
+              "input::-webkit-calendar-picker-indicator": {
+                "display": "none"
+              }
+            }
+          },
+          "_name": "formbuilder",
+          "_customHTML": "<section class=\"form\" group=\"Form\" plugins=\"amp-main, amp-form, amp-mustache\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Style</header>\n        <input type=\"checkbox\" name=\"customStyle\" title=\"Custom Style\">\n        <input type=\"checkbox\" name=\"disableElements\" title=\"Disable Control\">\n        <input type=\"color\" name=\"fieldColor\" title=\"Field\" value=\"#ffffff\" condition=\"customStyle\">\n        <input type=\"color\" name=\"fieldHover\" title=\"Field Hover\" value=\"#efefef\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderColor\" title=\"Border\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderHover\" title=\"Border Hover\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formText\" title=\"Text\" value=\"#000000\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formFocusText\" title=\"Text Focus\" value=\"#232323\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formPlaceholder\" title=\"Placeholders\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formFocusPlaceholder\" title=\"Placeholders Focus\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../assets/background.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <input type=\"hidden\" name=\"usedRecaptcha\" value=\"false\"></mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"(overlay &amp;&amp; bg.type=='image')\"></div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div mbr-form=\"\" class=\"col-lg-8 mx-auto mbr-form\">\n<!--Formbuilder Form-->\n<form action=\"hola@estudio530.com\" name=\"Form Name\" method=\"POST\" data-rcpha_sitekey=\"\" data-rcpha_secretkey=\"\" class=\"mbr-form\">\n<div class=\"mbr-row\">\n<div submit-success=\"\" class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12\">\n<template data-form-alert=\"\" type=\"amp-mustache\">Thanks for filling out the form!</template>\n</div>\n<div submit-error=\"\" class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12\">\n<template data-form-alert=\"\" type=\"amp-mustache\">Oops...! some problem!</template>\n</div>\n</div>\n<div class=\"dragArea mbr-row\">\n<div class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12\">\n<h4 mbr-theme-style=\"display-5\" class=\"mbr-fonts-style mbr-fonts-style\">Welcome to Form Builder</h4>\n</div>\n<div class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12\">\n<hr>\n</div>\n<div data-for=\"form[data][0][1]\" class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12 field\">\n<input type=\"hidden\" name=\"form[data][0][0]\" value=\"name\">\n<input type=\"text\" name=\"form[data][0][1]\" placeholder=\"Name\" data-form-field=\"name\" mbr-theme-style=\"display-7\" class=\"field-input\" value=\"\">\n</div>\n<div data-for=\"form[data][1][1]\" class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12 field\">\n<input type=\"hidden\" name=\"form[data][1][0]\" value=\"select\">\n<select name=\"form[data][1][1]\" data-form-field=\"select\" mbr-theme-style=\"display-7\" class=\"field-input\">\n<option value=\"Select\">Select</option>\n<option value=\"Second\">Second</option>\n<option value=\"Third\">Third</option>\n</select>\n</div>\n<div data-for=\"form[data][2][1]\" class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12 field\">\n<div class=\"form-control-label\">\n<label mbr-text=\"\" mbr-theme-style=\"display-7\" for=\"radio\" class=\"mbr-fonts-style\">Radio</label>\n</div>\n<input type=\"hidden\" name=\"form[data][2][0]\" value=\"radio\">\n<div class=\"form-check\">\n<input type=\"radio\" name=\"form[data][2][1]\" data-form-field=\"radio\" mbr-theme-style=\"display-7\" class=\"form-check-input\" value=\"First\" checked=\"checked\">\n<label mbr-text=\"\" mbr-theme-style=\"display-7\" class=\"form-check-label\">First</label>\n</div>\n<div class=\"form-check\">\n<input type=\"radio\" name=\"form[data][2][1]\" data-form-field=\"radio\" mbr-theme-style=\"display-7\" class=\"form-check-input\" value=\"Second\">\n<label mbr-text=\"\" mbr-theme-style=\"display-7\" class=\"form-check-label\">Second</label>\n</div>\n<div class=\"form-check\">\n<input type=\"radio\" name=\"form[data][2][1]\" data-form-field=\"radio\" mbr-theme-style=\"display-7\" class=\"form-check-input\" value=\"Third\">\n<label mbr-text=\"\" mbr-theme-style=\"display-7\" class=\"form-check-label\">Third</label>\n</div>\n</div>\n<div data-for=\"form[data][3][1]\" class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12 field\">\n<input type=\"hidden\" name=\"form[data][3][0]\" value=\"email\">\n<input type=\"email\" name=\"form[data][3][1]\" placeholder=\"Email\" data-form-field=\"email\" mbr-theme-style=\"display-7\" class=\"field-input\" value=\"\">\n</div>\n<div class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12 field\" data-for=\"form[data][4][1]\">\n<input type=\"hidden\" name=\"form[data][4][0]\" value=\"phone\">\n<input type=\"tel\" name=\"form[data][4][1]\" placeholder=\"Phone\" pattern=\"[0-9]{3}-[0-9]{3}-[0-9]{4}\" data-form-field=\"phone\" mbr-theme-style=\"display-7\" class=\"field-input\" value=\"\">\n</div>\n<div class=\"mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12 field\" data-for=\"form[data][5][1]\">\n<input type=\"hidden\" name=\"form[data][5][0]\" value=\"message\">\n<textarea name=\"form[data][5][1]\" placeholder=\"Message\" data-form-field=\"message\" mbr-theme-style=\"display-7\" class=\"field-input\"></textarea>\n</div>\n<div mbr-buttons=\"true\" mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\" class=\"mbr-col-auto\">\n<a data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\" type=\"submit\" class=\"btn btn-primary\">Submit</a>\n</div>\n</div>\n</form><!--Formbuilder Form-->\n</div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sccjVsZJpC",
+          "_anchor": "formbuilder-6v",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         }
       ]
     }
